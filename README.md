@@ -27,4 +27,4 @@ The following snippet shows the web application's appearance and functionality:
 
 ## License
 
-<font size="2"> Licensed under the <a href="https://github.com/techmack92/work-day-planner/main/LICENSE"> **MIT**</a> license.</font>
+<font size="2"> Licensed under the <a href="https://github.com/techmack92/work-day-planner/blob/main/LICENSE"> **MIT**</a> license.</font>
